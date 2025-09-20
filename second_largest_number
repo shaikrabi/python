@@ -1,0 +1,3 @@
+numbers = [12, 45, 67, 23, 89, 90, 56]
+numbers.sort()
+print("Second largest number:", numbers[-2])
