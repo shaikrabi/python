@@ -1,0 +1,4 @@
+numbers = [1, 2, 3, 2, 4, 1, 5, 3]
+unique = list(set(numbers))
+print("Original list:", numbers)
+print("Unique list:", unique)
